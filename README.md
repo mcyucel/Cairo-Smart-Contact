@@ -45,5 +45,6 @@ Transferleri döndürür.
         return transfers;
     }
 
-// Sözleşmenin ana veri yapısıdır.
+Sözleşmenin ana veri yapısıdır.
+    
     private var transfers: vector<Transfer>;
